@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 720">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#020304"/><stop offset="1" stop-color="#071217"/></linearGradient>
+<linearGradient id="glass" x1="0" x2="1"><stop stop-color="#fff" stop-opacity=".04"/><stop offset=".5" stop-color="#9feaff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1500" height="720" rx="32" fill="url(#sky)" stroke="#fff" stroke-opacity=".09"/>
+<g opacity=".22" stroke="#a8efff" fill="none"><path d="M0 555H1500"/><path d="M0 590H1500"/><path d="M0 625H1500"/><path d="M0 660H1500"/></g>
+<g fill="url(#glass)" stroke="#9feaff" stroke-opacity=".25">
+<path d="M100 555V410L155 380V555Z"/><path d="M180 555V300L250 335V555Z"/><path d="M275 555V445L338 410V555Z"/><path d="M365 555V250L438 290V555Z"/><path d="M465 555V370L525 345V555Z"/><path d="M555 555V190L645 240V555Z"/><path d="M675 555V405L730 380V555Z"/><path d="M760 555V290L840 325V555Z"/><path d="M870 555V430L930 395V555Z"/><path d="M960 555V220L1045 270V555Z"/><path d="M1075 555V355L1135 320V555Z"/><path d="M1160 555V165L1245 215V555Z"/><path d="M1275 555V390L1340 360V555Z"/>
+</g>
+<g fill="#dfffff" filter="url(#glow)">
+<rect x="122" y="434" width="5" height="5"/><rect x="202" y="350" width="5" height="5"/><rect x="387" y="300" width="5" height="5"/><rect x="580" y="265" width="5" height="5"/><rect x="785" y="350" width="5" height="5"/><rect x="990" y="295" width="5" height="5"/><rect x="1192" y="245" width="5" height="5"/>
+</g>
+<g font-family="monospace" fill="#fff">
+<text x="40" y="52" font-size="12" opacity=".52">SPECIMEN 05 / PROJECT CITY</text>
+<text x="40" y="96" font-size="12" opacity=".34">REPOSITORIES AS BUILDINGS · IDEAS AS INFRASTRUCTURE</text>
+<text x="106" y="604" font-size="13">WEBGL</text><text x="360" y="604" font-size="13">AI</text><text x="550" y="604" font-size="13">QUANTUM</text><text x="945" y="604" font-size="13">DATA</text><text x="1150" y="604" font-size="13">ALGORITHMS</text>
+<text x="40" y="685" font-size="12" opacity=".42">ARSHILJAIN / BUILD → STUDY → RESEARCH → SHIP</text>
+</g>
+</svg>
