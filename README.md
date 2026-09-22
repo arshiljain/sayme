@@ -104,13 +104,13 @@ Private GitHub automation and tooling experiments.
 
 ### 3D CONTRIBUTION SPACE
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub contribution calendar"/>
+<img src="./art/activity.svg" width="100%" alt="3D activity field"/>
 
 <br><br>
 
-### THE CONTRIBUTION CITY
+### THE PROJECT CITY
 
-<img src="./art/gitworld.svg" width="100%" alt="Animated GitHub contribution city"/>
+<img src="./art/city.svg" width="100%" alt="Project city visualization"/>
 
 </div>
 
