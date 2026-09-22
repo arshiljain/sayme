@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 720">
+<defs>
+<filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="c"><stop stop-color="#fff" stop-opacity=".15"/><stop offset=".5" stop-color="#9feaff" stop-opacity=".65"/><stop offset="1" stop-color="#fff" stop-opacity=".12"/></linearGradient>
+</defs>
+<rect width="1500" height="720" rx="30" fill="#040506" stroke="#fff" stroke-opacity=".08"/>
+<g font-family="monospace" fill="#fff" opacity=".5" font-size="12"><text x="38" y="42">SPECIMEN 04 / PROJECT CONSTELLATION</text><text x="38" y="688">THE WORK IS THE MAP</text></g>
+<g stroke="url(#c)" fill="none">
+<path d="M170 500 C350 320 480 250 680 340 S1010 520 1290 210"/>
+<path d="M210 180 C410 250 480 450 720 420 S1030 250 1280 470"/>
+<path d="M280 570 C410 330 610 180 900 230 S1120 430 1330 530"/>
+<path d="M120 350 C300 350 410 350 560 350 S830 350 1040 350 S1260 350 1390 350"/>
+</g>
+<g fill="#dfffff" filter="url(#g)">
+<circle cx="170" cy="500" r="9"/><circle cx="680" cy="340" r="13"/><circle cx="1290" cy="210" r="9"/>
+<circle cx="210" cy="180" r="8"/><circle cx="720" cy="420" r="12"/><circle cx="1280" cy="470" r="8"/>
+<circle cx="280" cy="570" r="8"/><circle cx="900" cy="230" r="11"/><circle cx="1330" cy="530" r="8"/>
+<circle cx="560" cy="350" r="7"/><circle cx="1040" cy="350" r="7"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#fff">
+<text x="128" y="544" font-size="20">WEBGL</text><text x="640" y="320" font-size="22">AI</text><text x="1252" y="184" font-size="18">QUANTUM</text><text x="164" y="156" font-size="18">DATA</text><text x="700" y="467" font-size="19">ALGORITHMS</text><text x="1240" y="510" font-size="18">GAME THEORY</text><text x="250" y="618" font-size="18">QUANT</text><text x="860" y="202" font-size="18">SYSTEMS</text>
+</g>
+</svg>
