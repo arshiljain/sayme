@@ -1,115 +1,153 @@
 <div align="center">
 
-<img src="./profile.svg" width="100%" alt="ARSHIL JAIN — Computational Systems"/>
+<img src="./art/hero.svg" width="100%" alt="ARSHIL JAIN — I BUILD LIVING SYSTEMS"/>
 
-<br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=650&color=A8EFFF&center=true&vCenter=true&width=900&lines=AI+%C2%B7+DATA+%C2%B7+QUANTUM+%C2%B7+WEBGL;I+BUILD+LIVING+SOFTWARE.;ALGORITHMS+%2B+MATHEMATICS+%2B+DESIGN;WELCOME+TO+THE+LAB." alt="animated intro"/>
+<br>
 
-<br/><br/>
+<div align="center">
 
-<a href="https://github.com/arshiljain"><img src="https://img.shields.io/badge/ARSHILJAIN-050607?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
-<a href="./index.html"><img src="https://img.shields.io/badge/ENTER_THE_3D_LAB-050607?style=for-the-badge&logo=threedotjs&logoColor=A8EFFF"/></a>
-<a href="mailto:arshiljain15@gmail.com"><img src="https://img.shields.io/badge/CONTACT-050607?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
+<img src="./art/terminal.svg" width="100%" alt="Terminal specimen"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### COMPUTATIONAL ARTIFACT / 2026
+
+AI &nbsp; DATA &nbsp; QUANTUM &nbsp; WEBGL &nbsp; ALGORITHMS &nbsp; SYSTEMS
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="./orbit.svg" width="86%" alt="Orbital systems visualization"/>
-
-</div>
-
-## `00 / SIGNAL`
-
-I build where **engineering, mathematics, data, and visual design** overlap.
-
-`AI / ML` · `Data Science` · `Algorithms` · `Quantum Computing` · `Qiskit` · `Three.js` · `WebGL` · `GLSL` · `Automation`
-
-The loop:
-
-~~~text
-IDEA → PROTOTYPE → BREAK IT → UNDERSTAND WHY → REBUILD → SHIP
-~~~
-
-## `01 / SELECTED SYSTEMS`
+## 01 — THE WORK
 
 <table>
-<tr><td width="50%" valign="top">
+<tr>
+<td width="53%" valign="top">
 
-### ◉ Lusion Systems
+<img src="./art/sphere.svg" width="100%" alt="Animated technology sphere"/>
 
-Technical graphics research around custom GLSL, GPGPU dynamics, screen-space techniques, runtime behavior and mathematical geometry.
+</td>
+<td width="47%" valign="middle">
 
-**[OPEN REPO ↗](https://github.com/arshiljain/lusionw)**
+### I LIKE THE SPACE BETWEEN THINGS.
 
-</td><td width="50%" valign="top">
+Software + mathematics.
 
-### △ Algorithm Laboratory
+Machines + interfaces.
 
-Readable implementations of algorithms plus experiments in machine learning, quantitative finance, game theory and quantum circuits.
+Models + strategy.
 
-**[OPEN LAB ↗](https://github.com/arshiljain/DSAPP)**
+Pixels + systems.
 
-</td></tr>
-<tr><td width="50%" valign="top">
+I build to understand.
 
-### ◇ Creative Web
+I research to make the strange computable.
 
-Art-directed frontend experiments exploring motion, typography, interaction and WebGL.
+I design so the result feels alive.
 
-**[PORTFOLIO ↗](https://github.com/arshiljain/portfolio)**
-
-</td><td width="50%" valign="top">
-
-### ⌘ Developer Lab
-
-Private workspace for GitHub automation and developer tooling.
-
-**[DEVELOPER LAB ↗](https://github.com/arshiljain/Github-Bot)**
-
-</td></tr>
+</td>
+</tr>
 </table>
 
-## `02 / 3D CONTRIBUTION WALL`
-
-This profile includes an automated 3D contribution renderer driven by GitHub's real contribution data. The official action generates the 3D calendar as SVG assets inside the profile repository. citeturn408786search0
+---
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution calendar"/>
+<img src="./art/network.svg" width="100%" alt="Animated systems network"/>
 
 </div>
 
-## `03 / ENTER THE LAB`
+---
+
+## 02 — PROJECT CONSTELLATION
 
 <div align="center">
 
-### **[OPEN THE INTERACTIVE 3D SITE →](./index.html)**
-
-A real Three.js scene with an orbital particle system, cursor-reactive motion, project cards, and the same visual language as this profile.
+<img src="./art/projects.svg" width="100%" alt="Project constellation"/>
 
 </div>
 
-## `04 / RANGE`
+<table>
+<tr>
+<td width="25%" align="center"><b>WEBGL</b><br><sub>shaders / gpu</sub></td>
+<td width="25%" align="center"><b>AI</b><br><sub>models / data</sub></td>
+<td width="25%" align="center"><b>QUANTUM</b><br><sub>qiskit / circuits</sub></td>
+<td width="25%" align="center"><b>DSA</b><br><sub>algorithms / systems</sub></td>
+</tr>
+</table>
+
+### Selected coordinates
+
+**◉ [Lusion Systems](https://github.com/arshiljain/lusionw)**  
+Graphics architecture, custom GLSL, GPGPU dynamics, mathematical geometry.
+
+**△ [Algorithm Laboratory](https://github.com/arshiljain/DSAPP)**  
+Readable algorithms, tests, numerical experiments and computational notebooks.
+
+**◇ [Creative Web](https://github.com/arshiljain/portfolio)**  
+Art-directed frontend experiments, motion and visual systems.
+
+**⌘ [Developer Lab](https://github.com/arshiljain/Github-Bot)**  
+Private GitHub automation and tooling experiments.
+
+---
+
+## 03 — GITHUB AS A LIVING OBJECT
+
+<div align="center">
+
+### 3D CONTRIBUTION SPACE
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub contribution calendar"/>
+
+<br><br>
+
+### THE CONTRIBUTION CITY
+
+<img src="./art/gitworld.svg" width="100%" alt="Animated GitHub contribution city"/>
+
+</div>
+
+---
+
+## 04 — CURRENT ARC
+
+<table>
+<tr>
+<td align="center">01<br><b>ALGORITHMS</b></td>
+<td align="center">02<br><b>QUANTUM</b></td>
+<td align="center">03<br><b>AI / ML</b></td>
+<td align="center">04<br><b>GRAPHICS</b></td>
+<td align="center">05<br><b>QUANT</b></td>
+</tr>
+</table>
 
 ~~~text
-ALGORITHMS      ██████████
-CREATIVE WEB    ██████████
-AI / ML         ████████░░
-QUANTUM         ████████░░
-GAME THEORY     ███████░░░
-QUANT FINANCE   ██████░░░░
+learn → build → measure → break → understand → rebuild
 ~~~
 
-## `05 / THE RULE`
+---
 
-> Make it useful.
->
-> Make it beautiful.
->
-> Then make it strange.
+<div align="center">
 
-<div align="center"><sub>ARSHILJAIN · 2026</sub></div>
+# MAKE IT USEFUL.
+# MAKE IT BEAUTIFUL.
+# MAKE IT STRANGE.
+
+<br>
+
+<a href="https://github.com/arshiljain">
+<img src="https://img.shields.io/badge/GITHUB-ARSHILJAIN-050607?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>This profile is intentionally a piece of the work.</sub>
+
+</div>
