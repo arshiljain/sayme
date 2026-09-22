@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+<rect width="1200" height="500" rx="28" fill="#030405" stroke="#fff" stroke-opacity=".09"/>
+<g font-family="monospace" font-size="16" fill="#fff">
+<text x="48" y="58" opacity=".42">arshil@lab:~$ whoami</text>
+<text x="48" y="96" fill="#a8efff">arshiljain</text>
+<text x="48" y="146" opacity=".42">arshil@lab:~$ cat /system/interests</text>
+<text x="48" y="184">[ AI ] [ DATA ] [ QUANTUM ] [ WEBGL ]</text>
+<text x="48" y="234" opacity=".42">arshil@lab:~$ ./current_arc</text>
+<text x="48" y="272">algorithms.............  ██████████</text>
+<text x="48" y="308">creative graphics......  ██████████</text>
+<text x="48" y="344">quantum................  ████████░░</text>
+<text x="48" y="380">machine learning.......  ████████░░</text>
+<text x="48" y="438" fill="#a8efff">arshil@lab:~$ _<animate attributeName="opacity" values=".2;1;.2" dur="1.1s" repeatCount="indefinite"/></text>
+</g>
+</svg>
