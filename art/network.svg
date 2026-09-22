@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 620">
+<defs>
+<filter id="gl"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="ln" x1="0" x2="1"><stop stop-color="#fff" stop-opacity=".08"/><stop offset=".5" stop-color="#9feaff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity=".08"/></linearGradient>
+</defs>
+<rect width="1400" height="620" rx="32" fill="#050607" stroke="#fff" stroke-opacity=".08"/>
+<g stroke="url(#ln)" fill="none">
+<path id="p1" d="M140 310 C330 100 500 120 680 310 S1030 520 1260 300"/>
+<path id="p2" d="M170 160 C380 330 520 420 720 280 S1040 90 1210 430"/>
+<path id="p3" d="M120 470 C340 400 480 210 690 340 S1010 540 1270 170"/>
+</g>
+<g fill="#dfffff" filter="url(#gl)">
+<circle cx="140" cy="310" r="9"/><circle cx="680" cy="310" r="12"/><circle cx="1260" cy="300" r="9"/>
+<circle r="6"><animateMotion dur="4.5s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+<circle r="6"><animateMotion dur="6s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion></circle>
+<circle r="6"><animateMotion dur="5.4s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
+</g>
+<g font-family="monospace" fill="#fff" font-size="12" opacity=".64">
+<text x="32" y="42">SPECIMEN 03 / SYSTEM NETWORK</text>
+<text x="102" y="105">AI</text><text x="360" y="90">DATA</text><text x="660" y="90">QUANTUM</text><text x="1010" y="90">GRAPHICS</text><text x="1215" y="540">SHIP → OBSERVE → ITERATE</text>
+</g>
+</svg>
