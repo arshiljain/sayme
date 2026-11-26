@@ -96,46 +96,7 @@
   <ellipse class="cloud1" cx="120" cy="28" rx="35" ry="12" fill="rgba(255,255,255,0.12)"/>
   <ellipse class="cloud2" cx="600" cy="50" rx="65" ry="18" fill="rgba(255,255,255,0.12)"/>
   <ellipse class="cloud2" cx="625" cy="40" rx="40" ry="13" fill="rgba(255,255,255,0.12)"/>
-  <circle class="snow" cx="717.0" cy="139.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.00s;animation-duration:1.20s"/>
-  <circle class="snow" cx="56.0" cy="131.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.15s;animation-duration:1.50s"/>
-  <circle class="snow" cx="295.0" cy="123.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.30s;animation-duration:1.80s"/>
-  <circle class="snow" cx="534.0" cy="115.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.45s;animation-duration:2.10s"/>
-  <circle class="snow" cx="773.0" cy="107.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.60s;animation-duration:2.40s"/>
-  <circle class="snow" cx="112.0" cy="99.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.75s;animation-duration:1.20s"/>
-  <circle class="snow" cx="351.0" cy="91.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.90s;animation-duration:1.50s"/>
-  <circle class="snow" cx="590.0" cy="83.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.05s;animation-duration:1.80s"/>
-  <circle class="snow" cx="829.0" cy="75.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.20s;animation-duration:2.10s"/>
-  <circle class="snow" cx="168.0" cy="67.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.35s;animation-duration:2.40s"/>
-  <circle class="snow" cx="407.0" cy="59.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.50s;animation-duration:1.20s"/>
-  <circle class="snow" cx="646.0" cy="51.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.65s;animation-duration:1.50s"/>
-  <circle class="snow" cx="885.0" cy="43.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.80s;animation-duration:1.80s"/>
-  <circle class="snow" cx="224.0" cy="35.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.95s;animation-duration:2.10s"/>
-  <circle class="snow" cx="463.0" cy="27.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.10s;animation-duration:2.40s"/>
-  <circle class="snow" cx="702.0" cy="19.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.25s;animation-duration:1.20s"/>
-  <circle class="snow" cx="41.0" cy="11.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.40s;animation-duration:1.50s"/>
-  <circle class="snow" cx="280.0" cy="3.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.55s;animation-duration:1.80s"/>
-  <circle class="snow" cx="519.0" cy="190.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.70s;animation-duration:2.10s"/>
-  <circle class="snow" cx="758.0" cy="182.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.85s;animation-duration:2.40s"/>
-  <circle class="snow" cx="97.0" cy="174.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.00s;animation-duration:1.20s"/>
-  <circle class="snow" cx="336.0" cy="166.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.15s;animation-duration:1.50s"/>
-  <circle class="snow" cx="575.0" cy="158.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.30s;animation-duration:1.80s"/>
-  <circle class="snow" cx="814.0" cy="150.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.45s;animation-duration:2.10s"/>
-  <circle class="snow" cx="153.0" cy="142.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.60s;animation-duration:2.40s"/>
-  <circle class="snow" cx="392.0" cy="134.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.75s;animation-duration:1.20s"/>
-  <circle class="snow" cx="631.0" cy="126.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.90s;animation-duration:1.50s"/>
-  <circle class="snow" cx="870.0" cy="118.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.05s;animation-duration:1.80s"/>
-  <circle class="snow" cx="209.0" cy="110.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.20s;animation-duration:2.10s"/>
-  <circle class="snow" cx="448.0" cy="102.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.35s;animation-duration:2.40s"/>
-  <circle class="snow" cx="687.0" cy="94.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.50s;animation-duration:1.20s"/>
-  <circle class="snow" cx="26.0" cy="86.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.65s;animation-duration:1.50s"/>
-  <circle class="snow" cx="265.0" cy="78.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.80s;animation-duration:1.80s"/>
-  <circle class="snow" cx="504.0" cy="70.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:0.95s;animation-duration:2.10s"/>
-  <circle class="snow" cx="743.0" cy="62.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.10s;animation-duration:2.40s"/>
-  <circle class="snow" cx="82.0" cy="54.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.25s;animation-duration:1.20s"/>
-  <circle class="snow" cx="321.0" cy="46.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.40s;animation-duration:1.50s"/>
-  <circle class="snow" cx="560.0" cy="38.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.55s;animation-duration:1.80s"/>
-  <circle class="snow" cx="799.0" cy="30.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.70s;animation-duration:2.10s"/>
-  <circle class="snow" cx="138.0" cy="22.0" r="1.5" fill="#ddeeff" opacity="0.8" style="animation-delay:1.85s;animation-duration:2.40s"/>
+  
 
   <!-- Ground -->
   <rect x="0" y="195" width="900" height="65" fill="url(#gnd)"/>
